@@ -22,6 +22,7 @@ h1{
 
 .backbutton {
 
+    display: block;
     color: blue;
     text-align: center;
     font-size: large;

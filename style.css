@@ -27,7 +27,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: green;
+  color: white;
   text-decoration: none;
 }
 
@@ -49,5 +49,5 @@ a:active {
     display: block;
     color: white;
     text-align: center;
-    font-size: larger;
+    font-size: 3em;
 }

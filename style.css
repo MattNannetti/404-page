@@ -12,6 +12,17 @@ h1{
     text-align: center;
 }
 
-img {
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+
+.backbutton {
+
+    color: blue;
     text-align: center;
+    font-size: large;
 }
